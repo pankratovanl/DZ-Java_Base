@@ -28,6 +28,8 @@ public class FirstClass {
 
         System.out.println(false & true | true);
         System.out.println(true | false);
+        System.out.println(c | b);
+        System.out.println(a & d);
 
         byte iByte = 120;
         short iShort = -32_768;
