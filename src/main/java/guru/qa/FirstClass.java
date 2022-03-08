@@ -36,11 +36,11 @@ public class FirstClass {
         long iLong = 100L;
         float iFloat = 3.12F;
         double iDouble = 17.25D;
-        char iChar = '#';
+        char iChar = '!';
         String iString = "Logitech's keyboard";
 
         System.out.println(a + iByte);
         System.out.println(iShort - b);
-        System.out.println(iString + " " + "is the best!");
+        System.out.println(iString + " " + "is the best" + '!');
     }
 }
